@@ -22,14 +22,16 @@ This portfolio is both a way to practice and a space to show what I can do.
 
 ---
 
-## 📁 What's in this repo
+## 📁 What’s in this repository
 
-| Folder          | Content                                                        |
-|------------------|----------------------------------------------------------------|
-| `test-cases/`    | Documented test cases for different features                   |
-| `bug-reports/`   | Example bug reports with descriptions and steps to reproduce  |
-| `test-plan/`     | Simple test plans by type of feature or project                |
-| `screenshots/`   | Screenshots or videos as test evidence                         |
+| Folder          | Content                                                                                  |
+|-----------------|------------------------------------------------------------------------------------------|
+| `test-cases/`   | Documented test cases organized by functionality and scenario                            |
+| `bug-reports/`  | Examples of found bugs, with description, reproduction steps, and evidence               |
+| `test-plan/`    | Structured test plans organized by project type or module                               |
+| `screenshots/`  | Images and videos serving as visual evidence of executed tests                          |
+| `api-testing/`  | Collections, projects, and examples of automated tests using Postman and SoapUI          |
+| `database/`     | SQL scripts for MySQL database testing, including creation, inserts, and queries         |
 
 ---
 
