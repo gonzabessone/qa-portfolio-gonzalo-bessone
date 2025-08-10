@@ -1,0 +1,21 @@
+Título: Verificar que aparezca un mensaje de error al iniciar sesión con credenciales inválidas.
+
+Prioridad: Alta
+
+Precondiciones:
+
+El usuario está en la página de inicio de sesión de Spotify.
+
+Pasos:
+
+1.Escribir un correo electrónico válido en el campo "Email o nombre de usuario".
+
+2.Escribir una contraseña incorrecta en el campo "Contraseña".
+
+3.Hacer clic en el botón "Iniciar sesión".
+
+4.Resultado esperado:
+
+El sistema no permite el acceso.
+
+Aparece un mensaje de error "Nombre de usuario o contraseña incorrectos".
