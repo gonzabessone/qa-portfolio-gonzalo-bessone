@@ -1,5 +1,5 @@
-
 ID del Plan de Pruebas: TP-SPOT-001
+
 Nombre del Proyecto: Spotify – Funcionalidad de Inicio de Sesión
 Versión del Documento: 1.0
 Fecha: 10/08/2025
