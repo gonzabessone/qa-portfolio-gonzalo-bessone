@@ -21,6 +21,7 @@ Estoy aprendiendo sobre diseño de casos de prueba, herramientas de gestión, y 
 Este portfolio es mi forma de practicar y también mostrar lo que sé hacer.
 
 ---
+## 📁 Qué hay en este repositorio
 
 | Carpeta         | Contenido                                                                                   |
 |-----------------|--------------------------------------------------------------------------------------------|
