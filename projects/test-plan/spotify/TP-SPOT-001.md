@@ -26,6 +26,7 @@ No incluye:
 • Registro de nuevas cuentas.
 
 3. Estrategia de Pruebas
+
 • Se realizarán pruebas funcionales manuales en el entorno web de Spotify usando navegador Chrome, en su última version estable.
 
 4. Criterios de Entrada (Definition of Ready)
