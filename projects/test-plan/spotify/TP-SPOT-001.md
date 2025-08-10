@@ -6,7 +6,7 @@
 **Fecha:** 10/08/2025  
 **Preparado por:** Gonzalo Bessone  
 
-## 1. Objetivo  
+# 1. Objetivo  
 Verificar que el proceso de inicio de sesión en Spotify funcione correctamente, tanto con credenciales válidas como inválidas, y que se muestren mensajes de error claros cuando corresponda.  
 
 ## 2. Alcance  
