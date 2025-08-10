@@ -29,7 +29,7 @@ Este portfolio es mi forma de practicar y también mostrar lo que sé hacer.
 | `bug-reports/`  | Ejemplos de bugs encontrados, con descripción, pasos para reproducir y evidencias          |
 | `test-plan/`    | Planes de prueba estructurados y organizados según tipo de proyecto o módulo               |
 | `screenshots/`  | Imágenes y videos que sirven como evidencia visual de las pruebas realizadas               |
-| `api-testing/`  | Colecciones, proyectos y ejemplos de pruebas automatizadas con Postman y SoapUI             |
+| `api-testing/`  | Colecciones, proyectos y ejemplos de pruebas con Postman y SoapUI                            |
 | `database/`     | Scripts SQL para pruebas en bases de datos MySQL, incluyendo creación, inserción y consultas|
 
 ---
