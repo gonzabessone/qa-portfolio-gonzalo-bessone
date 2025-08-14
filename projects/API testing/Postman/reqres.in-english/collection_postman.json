@@ -1,1 +1,41 @@
-
+{
+  "info": {
+    "name": "QA Portfolio - ReqRes Basic (EN)",
+    "_postman_id": "reqres-basic-en-001",
+    "description": "Very simple collection for QA portfolio: one GET request to /api/users/2. No test scripts.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "https://reqres.in"
+    }
+  ],
+  "item": [
+    {
+      "name": "GET /api/users/2 - Basic",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Accept",
+            "value": "application/json"
+          }
+        ],
+        "url": {
+          "raw": "{{base_url}}/api/users/2",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "api",
+            "users",
+            "2"
+          ]
+        },
+        "description": "Simple GET to fetch user id=2 from ReqRes. Manual checks only."
+      },
+      "response": []
+    }
+  ]
+}
