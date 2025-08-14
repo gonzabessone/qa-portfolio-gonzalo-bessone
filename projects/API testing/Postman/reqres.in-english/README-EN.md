@@ -1,8 +1,8 @@
 # Postman - Basic Test (EN) - ReqRes
 
 Files:
-- collection_postman_basic_en.json
-- environment_postman_basic_en.json (optional)
+- collection_postman_en.json
+- environment_postman_en.json (optional)
 
 What it is:
 - One simple GET request to https://reqres.in/api/users/2.
@@ -10,7 +10,7 @@ What it is:
 
 Steps to run (manual):
 1. Open Postman.
-2. Import `collection_postman_basic_en.json` (and `environment_postman_basic_en.json` if you want).
+2. Import `collection_postman_en.json` (and `environment_postman_en.json` if you want).
 3. Select the environment `ReqRes - Basic EN` (if imported) or use the full URL directly.
 4. Open the request `GET /api/users/2 - Basic` and click **Send**.
 5. Do these simple checks:
