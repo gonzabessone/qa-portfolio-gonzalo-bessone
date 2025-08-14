@@ -29,4 +29,4 @@ How to run a Performance (load) test in Postman — simple runner steps:
    - **Test duration:** `1` minute
    - **Load profile:** choose **Fixed** (keeps 20 VUs steady) — or **Ramp-up** if you want them to start gradually.
 5. Click **Run**.
-6. While the test runs you can watch metrics (requests/sec, response time, error rate). After it finishes, open the run details to see graphs and numbers. :contentReference[oaicite:2]{index=2}
+6. While the test runs you can watch metrics (requests/sec, response time, error rate). After it finishes, open the run details to see graphs and numbers. 
