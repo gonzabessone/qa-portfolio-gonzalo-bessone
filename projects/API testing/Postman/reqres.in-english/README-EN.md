@@ -10,4 +10,5 @@ This folder contains collections and examples of automated tests performed with 
 ## How to use
 
 1. Import the collection into Postman (File > Import).  
+
 2. Run the tests and review the results.
