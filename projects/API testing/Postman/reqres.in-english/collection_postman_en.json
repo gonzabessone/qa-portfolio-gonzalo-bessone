@@ -1,0 +1,13 @@
+{
+  "id": "reqres-env-basic-en-001",
+  "name": "ReqRes - Basic EN",
+  "values": [
+    {
+      "key": "base_url",
+      "value": "https://reqres.in",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2025-08-14T03:50:47.383122Z"
+}
