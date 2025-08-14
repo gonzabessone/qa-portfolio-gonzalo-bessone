@@ -1,14 +1,15 @@
-# API Testing with Postman
+# Postman — Basic Test (EN)
 
-This folder contains collections and examples of automated tests performed with Postman.
+## ReqRes: GET /api/users/2
+**File:** collection_postman.json  
+**Environment (optional):** environment_postman.json
 
-## Contents
+**Description:** Simple GET request to retrieve user with id=2 from ReqRes.
 
-- `collection_postman.json`: Collection exported from Postman containing tests for REST endpoints.  
-- Brief description of tested endpoints and testing objectives.
+**Manual checks:**
+1. Status code = 200
+2. Response header Content-Type contains "application/json"
+3. Body contains `data` and `data.id` = 2
+4. Capture response time as evidence (< 1200 ms recommended)
 
-## How to use
-
-1. Import the collection into Postman (File > Import).  
-
-2. Run the tests and review the results.
+**How to run:** Import the collection (and optional environment) into Postman, select the environment if used, open the request and click Send. Save a screenshot of the response showing status and response time for portfolio evidence.
