@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "52350726-16dd-4f85-8dcd-5ef4ca39d615",
+		"name": "Portafolio QA - Postman (ES) - ReqRes - Básico",
+		"description": "Colección para el portafolio: petición GET básica a /api/users/2 en ReqRes. Sin scripts de test automáticos (pruebas manuales descritas en el README).",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45384409",
+		"_collection_link": "https://gonzalobessone.postman.co/workspace/Gonzalo-Bessone's-Workspace~a974ac74-20ba-40e6-8801-9cc585d67c2e/collection/45384409-52350726-16dd-4f85-8dcd-5ef4ca39d615?action=share&source=collection_link&creator=45384409"
+	},
+	"item": [
+		{
+			"name": "GET Usuario (id=2) - Básico",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json"
+					}
+				],
+				"url": {
+					"raw": "{{base_url}}/api/users/2",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"users",
+						"2"
+					]
+				},
+				"description": "Petición GET a ReqRes para obtener el usuario con id=2.\n\nPruebas sugeridas (manuales y sencillas):\n1. Verificar código de estado = 200.\n2. Verificar que la cabecera Content-Type contenga 'application/json'.\n3. Verificar que el body tenga la propiedad 'data' y que 'data.id' = 2.\n4. Registrar el tiempo de respuesta (ej: < 1200 ms) como evidencia.\n\nEstos pasos se realizan manualmente desde Postman en la pestaña 'Body' y 'Headers' luego de hacer Send."
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "base_url",
+			"value": "https://reqres.in"
+		}
+	]
+}
