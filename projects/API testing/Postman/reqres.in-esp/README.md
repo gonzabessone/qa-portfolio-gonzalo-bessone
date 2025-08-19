@@ -6,6 +6,7 @@
 
 * `collection_postman_es.json`
 * `environment_postman_es.json` (opcional)
+* En la carpeta 'screenshots' está la evidencia de los test realizados.
 
 ---
 
