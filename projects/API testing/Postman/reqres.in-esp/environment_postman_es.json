@@ -1,0 +1,14 @@
+{
+	"id": "e796a78a-acad-4cd5-827f-73f4e3431bea",
+	"name": "Portafolio QA - esp (Básico)",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "https://reqres.in",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-08-19T22:48:15.372Z",
+	"_postman_exported_using": "Postman/11.58.3"
+}
