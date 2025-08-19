@@ -1,6 +1,6 @@
 # API Testing con Postman
 
-En esta carpeta se encuentran colecciones y ejemplos de pruebas automatizadas realizadas con Postman.
+En esta carpeta se encuentran colecciones y ejemplos de pruebas realizadas con Postman.
 
 ## Contenido
 
