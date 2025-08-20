@@ -25,11 +25,11 @@ Este portfolio es mi forma de practicar y también mostrar lo que sé hacer.
 
 | Carpeta         | Contenido                                                                                   |
 |-----------------|--------------------------------------------------------------------------------------------|
-| `projects/test-cases/`        | Casos de prueba documentados, organizados por funcionalidad y escenario                     |
-| `projects/bug-reports/`       | Ejemplos de bugs encontrados, con descripción, pasos para reproducir y evidencias          |
-| `projects/test-plan/`         | Planes de prueba estructurados y organizados según tipo de proyecto o módulo               |
-| `projects/api-testing/`       | Colecciones, proyectos y ejemplos de pruebas con Postman y SoapUI                            |
-| `projects/database/`          | Scripts SQL para pruebas en bases de datos MySQL, incluyendo creación, inserción y consultas|
+| `projects/test-cases/`          | Casos de prueba documentados, organizados por funcionalidad y escenario                     |
+| `projects/bug-reports/`         | Ejemplos de bugs encontrados, con descripción, pasos para reproducir y evidencias          |
+| `projects/test-plan/`           | Planes de prueba estructurados y organizados según tipo de proyecto o módulo               |
+| `projects/api-testing/`         | Colecciones, proyectos y ejemplos de pruebas con Postman y SoapUI                            |
+| `projects/database/`            | Scripts SQL para pruebas en bases de datos MySQL, incluyendo creación, inserción y consultas|
 
 ---
 
