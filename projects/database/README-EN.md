@@ -10,5 +10,5 @@ This folder contains SQL scripts used for testing and queries in MySQL.
 
 ## How to use
 
-1. Run the scripts in a MySQL server or client (MySQL Workbench, CLI).  
+1. Run the scripts in a MySQL server or client (MySQL Workbench).  
 2. Verify the results and changes.
