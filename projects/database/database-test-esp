@@ -10,5 +10,5 @@ Esta carpeta contiene scripts SQL usados para pruebas y consultas en MySQL.
 
 ## Cómo usar
 
-1. Ejecutar scripts en un servidor MySQL o cliente (MySQL Workbench, CLI).  
+1. Ejecutar scripts en un servidor MySQL o cliente (MySQL Workbench).  
 2. Validar resultados y modificaciones.
