@@ -26,12 +26,11 @@ This portfolio is both a way to practice and a space to show what I can do.
 
 | Folder          | Content                                                                                  |
 |-----------------|------------------------------------------------------------------------------------------|
-| `test-cases/`   | Documented test cases organized by functionality and scenario                            |
-| `bug-reports/`  | Examples of found bugs, with description, reproduction steps, and evidence               |
-| `test-plan/`    | Structured test plans organized by project type or module                               |
-| `screenshots/`  | Images and videos serving as visual evidence of executed tests                          |
-| `api-testing/`  | Collections, projects, and examples of automated tests using Postman and SoapUI          |
-| `database/`     | SQL scripts for MySQL database testing, including creation, inserts, and queries         |
+| `projects/test-cases/`   | Documented test cases organized by functionality and scenario                            |
+| `projects/bug-reports/`  | Examples of found bugs, with description, reproduction steps, and evidence               |
+| `projects/test-plan/`    | Structured test plans organized by project type or module                               |
+| `projects/api-testing/`  | Collections, projects, and examples of automated tests using Postman and SoapUI          |
+| `projects/database/`     | SQL scripts for MySQL database testing, including creation, inserts, and queries         |
 
 ---
 
