@@ -8,7 +8,7 @@ You'll find real examples of:
 - ✅ Functional test cases
 - 🐞 Bug reports
 - 📝 Test plans
-- 🖼️ Evidence (screenshots, videos, etc.)
+- 🖼️ Evidence 
 - 📚 Useful documentation every QA should know
 
 ---
