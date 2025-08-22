@@ -15,7 +15,7 @@ http://www.dneonline.com/calculator.asmx?WSDL
 - `01-structure.png` — screenshot showing the project structure: TestSuite / TestCases / TestSteps.  
 - `02-add-positive.png` — screenshot of a positive request/response example (ADD).  
 - `03-divide-error.png` — screenshot of a negative case showing a SOAP Fault and the assertions.  
-- `04-testsuite-run.png` — screenshot of the full TestSuite run (green bar).  
+- `04-testsuite-run.png` — screenshot of the full TestSuite run.  
 - `README-EN.md` — this file.
 
 ---
@@ -25,15 +25,15 @@ For each operation (ADD / SUBTRACT / MULTIPLY / DIVIDE), the following was cover
 
 - **Positive cases:** standard values, negative values, and one large-number example.  
 - **Negative cases:** non-numeric input (strings) and empty/missing input.  
-- **Assertions:** result checks for positive cases (Contains / XPath) and SOAP Fault / Not Contains checks for negative cases.
+- **Assertions:** result checks for positive cases (Contains) and SOAP Fault / Not Contains checks for negative cases.
 
 ---
 
 ### How to reproduce locally
 1. Clone or download this repository.  
-2. Open SoapUI (recommended: 5.x).  
+2. Open SoapUI.  
 3. Import the project: **File → Import Project** → select `project-soapui.xml`.  
-4. Verify the endpoints used by each TestStep (they can point to the public WSDL or to a local copy for repeatability).  
+4. Verify the endpoints used by each TestStep.  
 5. Run an individual TestCase or run the whole TestSuite.  
 6. Inspect the **Assertions** tab on each TestStep to see the automated validations.
 
@@ -41,6 +41,6 @@ For each operation (ADD / SUBTRACT / MULTIPLY / DIVIDE), the following was cover
 
 ### Evidence
 - `01-structure.png` — shows how TestCases and TestSteps are organized.  
-- `02-add-positive.png` — example of a successful request/response with `<AddResult>`.  
-- `03-divide-error.png` — negative scenario showing a SOAP Fault and the matching assertion.  
-- `04-testsuite-run.png` — full-test execution evidence (green).
+- `02-add-positive.png` — example of a successful request/response with expected results.  
+- `03-divide-error.png` — showing a SOAP Fault and the matching assertion.  
+- `04-testsuite-run.png` — full-test execution evidence.
