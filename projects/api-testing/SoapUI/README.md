@@ -11,7 +11,7 @@ http://www.dneonline.com/calculator.asmx?WSDL
 - `01-structure.png` — Captura de la estructura: TestSuite / TestCases / TestSteps.  
 - `02-add-positive.png` — Captura de un request/response positivo (ADD).  
 - `03-divide-error.png` — Captura de un caso negativo mostrando el SOAP Fault y assertions.  
-- `04-testsuite-run.png` — Resultado de ejecutar todo el TestSuite (barra verde).  
+- `04-testsuite-run.png` — Resultado de ejecutar todo el TestSuite.  
 - `README.md` — Este archivo.
 
 
