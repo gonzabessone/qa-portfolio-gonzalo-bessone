@@ -33,5 +33,5 @@ Para cada operación (ADD / SUBTRACT / MULTIPLY / DIVIDE) se cubrieron:
 - `01-structure.png` — estructura de los TestCases y TestSteps.  
 - `02-add-positive.png` — muestra el request enviado y el resultado esperado.  
 - `03-divide-error.png` — muestra el SOAP Fault y la assertion tipo SOAP Fault / Not Contains.  
-- `04-testsuite-run.png` — evidencia la ejecución completa (verde) y que las assertions pasan.
+- `04-testsuite-run.png` — evidencia la ejecución completa y que las assertions pasan.
 
