@@ -1,13 +1,46 @@
+# Calculator API — SoapUI (Test Project)
 
-# API Testing with SoapUI
+### Summary
+Simple example project to show SOAP testing with SoapUI.  
+It includes a TestSuite named **TestSuite Calculator** with four TestCases (ADD, SUBTRACT, MULTIPLY, DIVIDE).  
+Each TestCase contains positive steps (P1–P3) and negative steps (N1–N2), and assertions are configured to validate expected behavior.
 
-This folder contains projects and test scripts created with SoapUI for SOAP/REST services.
+**WSDL used (example):**  
+http://www.dneonline.com/calculator.asmx?WSDL
 
-## Contents
+---
 
-- `project-soapui.xml`: SoapUI project including test cases and configurations.
+### Folder structure (included files)
+- `project-soapui.xml` — exported SoapUI project (import in SoapUI: **File → Import Project**).  
+- `01-structure.png` — screenshot showing the project structure: TestSuite / TestCases / TestSteps.  
+- `02-add-positive.png` — screenshot of a positive request/response example (ADD).  
+- `03-divide-error.png` — screenshot of a negative case showing a SOAP Fault and the assertions.  
+- `04-testsuite-run.png` — screenshot of the full TestSuite run (green bar).  
+- `README-EN.md` — this file.
 
-## How to use
+---
 
-1. Open the `.xml` file in SoapUI.  
-2. Run the test suites and analyze the results.
+### Scope — what was tested
+For each operation (ADD / SUBTRACT / MULTIPLY / DIVIDE), the following was covered:
+
+- **Positive cases:** standard values, negative values, and one large-number example.  
+- **Negative cases:** non-numeric input (strings) and empty/missing input.  
+- **Assertions:** result checks for positive cases (Contains / XPath) and SOAP Fault / Not Contains checks for negative cases.
+
+---
+
+### How to reproduce locally
+1. Clone or download this repository.  
+2. Open SoapUI (recommended: 5.x).  
+3. Import the project: **File → Import Project** → select `project-soapui.xml`.  
+4. Verify the endpoints used by each TestStep (they can point to the public WSDL or to a local copy for repeatability).  
+5. Run an individual TestCase or run the whole TestSuite.  
+6. Inspect the **Assertions** tab on each TestStep to see the automated validations.
+
+---
+
+### Evidence
+- `01-structure.png` — shows how TestCases and TestSteps are organized.  
+- `02-add-positive.png` — example of a successful request/response with `<AddResult>`.  
+- `03-divide-error.png` — negative scenario showing a SOAP Fault and the matching assertion.  
+- `04-testsuite-run.png` — full-test execution evidence (green).
