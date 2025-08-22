@@ -31,7 +31,7 @@ This portfolio is both a way to practice and a space to show what I can do.
 | `projects/test-plan/`    | Structured test plans organized by project type or module                               |
 | `projects/api-testing/`  | Collections, projects, and examples of automated tests using Postman and SoapUI          |
 | `projects/database/`     | SQL scripts for MySQL database testing, including creation, inserts, and queries         |
-
+| `projects/test-automation/`     | Coming soon         |
 ---
 
 ## 📫 Contact
