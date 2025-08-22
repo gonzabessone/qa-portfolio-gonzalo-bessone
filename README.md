@@ -8,7 +8,7 @@ Acá vas a encontrar ejemplos reales de:
 - ✅ Casos de prueba funcionales
 - 🐞 Reportes de bugs
 - 📝 Planes de prueba
-- 🖼️ Evidencias (capturas, videos, etc.)
+- 🖼️ Evidencias 
 - 📚 Documentos útiles que todo QA debería conocer
 
 ---
