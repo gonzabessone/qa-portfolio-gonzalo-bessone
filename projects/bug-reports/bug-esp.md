@@ -1,33 +1,36 @@
+# 🐞 Reporte de bug – Creación de usuario sin validación en el sign up
 
-# 🐞 Reporte de Bug: Error en formulario de registro sin validación
+| **ID:** BUG-001 |  
+|-----------------|  
+| **Página:** https://www.demoblaze.com/cart.html |  
+| **Severidad:** 🔴 Alta |  
+| **Prioridad:** 🔴 Alta |  
+| **Tester responsable:** Gonzalo Bessone |  
 
-| **ID:** | BUG-001                          |
-|---------|---------------------------------|
-| **Página:** | https://www.ejemplo.com/registro |
-| **Severidad:** | 🔴 Alta                     |
-| **Prioridad:** | 🔴 Alta                     |
+### Descripción
+Al probar el proceso de registro (Sign up) noté que es posible crear un usuario sin confirmar nada y usando **cualquier carácter** como dato (por ejemplo, introducir "!"#sf" en los campos). 
+El problema es que entradas mínimas/aleatorias son aceptadas y se crea la cuenta sin validaciones ni confirmaciones.
 
-## 📋 Descripción
-Al enviar el formulario de registro sin completar los campos obligatorios (nombre, email, contraseña), la aplicación permite el envío sin mostrar mensajes de error, registrando usuarios con datos incompletos.
+### Pasos para reproducir
+1. Abrir: `https://www.demoblaze.com/cart.html`  
+2. Clickear el boton de **Sign up** .  
+3. En los campos obligatorios ingresar **cualquier carácter** y **cualquier contraseña**).  
+4. Confirmar/enviar el formulario.  
 
-## 🛠 Pasos para reproducir
-1. Ir a la página de registro: `https://www.ejemplo.com/registro`  
-2. Dejar los campos obligatorios vacíos.  
-3. Presionar el botón **Registrar**.  
 
-## ✅ Resultado esperado
-La aplicación debe impedir el envío y mostrar mensajes claros indicando que los campos obligatorios deben completarse.
+### Resultado esperado
+El sistema debería validar correctamente los campos obligatorios (formato de email, longitud mínima de contraseña) y requerir confirmación (email o validación adicional) antes de crear la cuenta.
 
-## ❌ Resultado actual
-El formulario se envía exitosamente y crea un usuario con datos vacíos.
+### Resultado real
+La cuenta se crea aceptando entradas mínimas o cualquier carácter sin pedir confirmación ni mostrar errores de validación.
 
-## 💻 Ambiente de prueba
+### Entorno de prueba
 
-| Navegador     | Versión | Sistema Operativo |
-|---------------|---------|-------------------|
-| Chrome        | 113.0   | Windows 10        |
+| Navegador | Versión | Sistema operativo |  
+|-----------|---------|-------------------|  
+| Chrome    | 113.0   | Windows 10        |  
 
-## 📎 Evidencias
-- Captura: `formulario-error.png`
+### Evidencia
+- Captura: `form-error.png`
 
----
+
