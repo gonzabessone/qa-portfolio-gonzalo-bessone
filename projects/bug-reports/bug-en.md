@@ -8,12 +8,12 @@
 | **Tester:** Gonzalo Bessone |  
 
 ### Description
-While testing the sign-up flow I noticed you can create an account without any confirmation and just by entering **any character** in the fields (for example, typing `a`). The problem is that trivial or random inputs are accepted and an account is created without proper validation or confirmation.
+On this web you can create an account without any confirmation and just by entering **any character** in the fields (for example, typing `a`). The problem is that trivial or random inputs are accepted and an account is created without proper validation or confirmation.
 
 ### Steps to reproduce
 1. Open: `https://www.demoblaze.com/cart.html`  
 2. Click the **Sign up** button.  
-3. In the required fields enter **any character** (for example `a` as the name, `a@a.a` or even `a` as the email, and `1` as the password).  
+3. In the required fields enter **any character** (for example !"#sf and any password).  
 4. Submit the form.  
 
 ### Expected result
