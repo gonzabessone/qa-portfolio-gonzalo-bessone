@@ -9,7 +9,7 @@ para la web [UI Testing Playground](http://www.uitestingplayground.com).
 
 
 ##  Cambios destacados:
-=======
+
 ## 🆕 Cambios destacados
 - Cobertura de **toda** la web.
 - Organización de carpetas y nombres de casos.
@@ -19,7 +19,7 @@ para la web [UI Testing Playground](http://www.uitestingplayground.com).
 ---
 
 ##  Instalación y ejecución (pasos seguidos)
-=======
+
 Nota: el archivo playwright.config.ts es la configuracion que usé con playwright (desactive webkit temporalmente porque tenia algunos problemas con el delay en algun test en particular)
 
 ---
