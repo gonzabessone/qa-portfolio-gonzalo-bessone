@@ -30,7 +30,7 @@ Este portfolio es mi forma de practicar y también mostrar lo que sé hacer.
 | `projects/test-plan/`           | Planes de prueba estructurados y organizados según tipo de proyecto o módulo               |
 | `projects/api-testing/`         | Colecciones, proyectos y ejemplos de pruebas con Postman y SoapUI                            |
 | `projects/database/`            | Scripts SQL para pruebas en bases de datos MySQL, incluyendo creación, inserción y consultas|
-
+| `projects/test-automation/`            | Scripts de automatizacion con Typescript de la pagina web uiplayground|
 ---
 
 ## 📫 Contacto
