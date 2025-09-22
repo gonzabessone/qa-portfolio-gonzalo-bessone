@@ -1,15 +1,16 @@
-# 📌 Portfolio de QA Manual - Gonzalo Bessone
+# 📌 QA Engineer Portfolio - Gonzalo Bessone
 
 Hola, gracias por visitar mi portfolio 😊  
-Soy Gonzalo, estudiante de QA , y en este repositorio comparto parte del trabajo que vengo haciendo mientras me formo como tester.
+Soy Gonzalo, QA Engineer especializado en automation y testing manual.
+En este repositorio comparto proyectos reales de testing que he desarrollado.
 
-Acá vas a encontrar ejemplos reales de:
+Acá vas a encontrar ejemplos de:
 
-- ✅ Casos de prueba funcionales
+- 🔧 Automatización E2E con Playwright
+- ✅ Casos de prueba funcionales  
 - 🐞 Reportes de bugs
 - 📝 Planes de prueba
-- 🖼️ Evidencias 
-- 📚 Documentos útiles que todo QA debería conocer
+- 📊 Testing de APIs y bases de datos
 
 ---
 
@@ -42,7 +43,7 @@ Enfocado en crear casos de prueba detallados y scripts de automatización manten
 | `projects/test-plan/`           | Planes de prueba estructurados y organizados según tipo de proyecto o módulo               |
 | `projects/api-testing/`         | Colecciones, proyectos y ejemplos de pruebas con Postman y SoapUI                            |
 | `projects/database/`            | Scripts SQL para pruebas en bases de datos MySQL, incluyendo creación, inserción y consultas|
-| `projects/test-automation/`            | Scripts de automatización E2E con Playwright y TypeScript|
+| `projects/test-automation/`            | Automatización E2E completa con Playwright - UIPlayground Test Suite|
 ---
 
 ## 📫 Contacto
