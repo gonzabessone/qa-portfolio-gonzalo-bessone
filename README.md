@@ -1,7 +1,7 @@
 # 📌 Portfolio de QA Manual - Gonzalo Bessone
 
 Hola, gracias por visitar mi portfolio 😊  
-Soy Gonzalo, estudiante de QA Manual, y en este repositorio comparto parte del trabajo que vengo haciendo mientras me formo como tester.
+Soy Gonzalo, estudiante de QA , y en este repositorio comparto parte del trabajo que vengo haciendo mientras me formo como tester.
 
 Acá vas a encontrar ejemplos reales de:
 
