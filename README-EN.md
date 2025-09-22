@@ -48,7 +48,6 @@ Focused on creating detailed test cases and maintainable automation scripts.
 
 ## 📫 Contact
 
-You can reach me through any of these channels:
 - ✉️ gonzalo.bessone.it@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gonzalobessone/)  
 - 📍 Rosario, Argentina
