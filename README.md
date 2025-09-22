@@ -1,7 +1,7 @@
-# 📌 QA Engineer Portfolio - Gonzalo Bessone
+# 📌 QA Automation Portfolio - Gonzalo Bessone
 
 Hola, gracias por visitar mi portfolio 😊  
-Soy Gonzalo, QA Engineer especializado en automation y testing manual.
+Soy Gonzalo, QA con especialización en automation y testing manual.
 En este repositorio comparto proyectos reales de testing que he desarrollado.
 
 Acá vas a encontrar ejemplos de:
@@ -15,9 +15,7 @@ Acá vas a encontrar ejemplos de:
 ---
 
 ## 🔍 Sobre mí
-
-🔧 QA Engineer - Automation & Manual Testing
-
+**QA Automation & Manual Testing**
 Especializado en automatización de pruebas E2E con Playwright y TypeScript.
 Experiencia combinando testing manual estructurado con automatización de flujos críticos.
 Enfocado en crear casos de prueba detallados y scripts de automatización mantenibles.
