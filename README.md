@@ -15,10 +15,11 @@ Acá vas a encontrar ejemplos reales de:
 
 ## 🔍 Sobre mí
 
-Estoy empezando mi camino en el mundo del testing. Me interesa todo lo relacionado al control de calidad de software, el análisis funcional y la mejora continua de productos.  
-Estoy aprendiendo sobre diseño de casos de prueba, herramientas de gestión, y cómo comunicar hallazgos de forma clara y útil.
+🔧 QA Engineer - Automation & Manual Testing
 
-Este portfolio es mi forma de practicar y también mostrar lo que sé hacer.
+Especializado en automatización de pruebas E2E con Playwright y TypeScript.
+Experiencia combinando testing manual estructurado con automatización de flujos críticos.
+Enfocado en crear casos de prueba detallados y scripts de automatización mantenibles.
 
 ---
 ## 📁 Qué hay en este repositorio
@@ -30,7 +31,7 @@ Este portfolio es mi forma de practicar y también mostrar lo que sé hacer.
 | `projects/test-plan/`           | Planes de prueba estructurados y organizados según tipo de proyecto o módulo               |
 | `projects/api-testing/`         | Colecciones, proyectos y ejemplos de pruebas con Postman y SoapUI                            |
 | `projects/database/`            | Scripts SQL para pruebas en bases de datos MySQL, incluyendo creación, inserción y consultas|
-| `projects/test-automation/`            | Scripts de automatizacion con Typescript de la pagina web uiplayground|
+| `projects/test-automation/`            | Scripts de automatización E2E con Playwright y TypeScript|
 ---
 
 ## 📫 Contacto
