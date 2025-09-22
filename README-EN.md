@@ -1,43 +1,54 @@
-# 📌 QA Manual Portfolio - Gonzalo Bessone
+# 📌 QA Automation Portfolio - Gonzalo Bessone
 
-Hi there! Thanks for visiting my portfolio 😊  
-I'm Gonzalo, a QA Manual trainee, and in this repository I share some of the work I’ve been doing while learning how to test software.
+Hello, thanks for visiting my portfolio 😊  
+I'm Gonzalo, a QA professional specializing in automation and manual testing.
+In this repository, I share real testing projects I've developed.
 
-You'll find real examples of:
-
-- ✅ Functional test cases
+Here you'll find examples of:
+- 🔧 E2E Automation with Playwright
+- ✅ Functional test cases  
 - 🐞 Bug reports
 - 📝 Test plans
-- 🖼️ Evidence 
-- 📚 Useful documentation every QA should know
+- 📊 API and database testing
 
 ---
 
 ## 🔍 About Me
 
-I'm starting my journey in the QA world. I'm interested in software quality, functional analysis, and helping teams build better products.  
-I'm currently learning how to design test cases, report bugs clearly, and understand testing processes and strategies.
+**QA Automation & Manual Testing**
 
-This portfolio is both a way to practice and a space to show what I can do.
+Specialized in E2E test automation with Playwright and TypeScript.
+Experience combining structured manual testing with critical flow automation.
+Focused on creating detailed test cases and maintainable automation scripts.
 
 ---
 
-## 📁 What’s in this repository
+## 🛠️ Tech Stack
 
-| Folder          | Content                                                                                  |
-|-----------------|------------------------------------------------------------------------------------------|
-| `projects/test-cases/`   | Documented test cases organized by functionality and scenario                            |
-| `projects/bug-reports/`  | Examples of found bugs, with description, reproduction steps, and evidence               |
-| `projects/test-plan/`    | Structured test plans organized by project type or module                               |
-| `projects/api-testing/`  | Collections, projects, and examples of automated tests using Postman and SoapUI          |
-| `projects/database/`     | SQL scripts for MySQL database testing, including creation, inserts, and queries         |
-| `projects/test-automation/`            | TypeScript automation scripts for the uiplayground website |
+- **Automation**: Playwright, TypeScript/JavaScript
+- **Testing**: E2E, Functional, Regression
+- **API Testing**: Postman, SoapUI  
+- **Database**: MySQL, SQL
+- **Tools**: Git, GitHub, Test Documentation
+  
+---
+
+## 📁 Repository Contents
+
+| Folder         | Content                                                                                   |
+|----------------|-------------------------------------------------------------------------------------------|
+| `projects/test-cases/`          | Documented test cases, organized by functionality and scenario                     |
+| `projects/bug-reports/`         | Bug examples found, with description, reproduction steps and evidence          |
+| `projects/test-plan/`           | Structured test plans organized by project type or module               |
+| `projects/api-testing/`         | Collections, projects and testing examples with Postman and SoapUI                            |
+| `projects/database/`            | SQL scripts for MySQL database testing, including creation, insertion and queries|
+| `projects/test-automation/`            | Complete E2E automation with Playwright - UIPlayground Test Suite|
+
 ---
 
 ## 📫 Contact
 
-Feel free to reach out:
-
+You can reach me through any of these channels:
 - ✉️ gonzalo.bessone.it@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gonzalobessone/)  
-- 📍 Rosario, Argentina  
+- 📍 Rosario, Argentina
