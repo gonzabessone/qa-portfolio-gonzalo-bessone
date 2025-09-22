@@ -22,6 +22,17 @@ Experiencia combinando testing manual estructurado con automatización de flujos
 Enfocado en crear casos de prueba detallados y scripts de automatización mantenibles.
 
 ---
+
+## 🛠️ Stack Técnico
+
+- **Automation**: Playwright, TypeScript/JavaScript
+- **Testing**: E2E, Functional, Regression
+- **API Testing**: Postman, SoapUI  
+- **Database**: MySQL, SQL
+- **Tools**: Git, GitHub, Test Documentation
+  
+---
+
 ## 📁 Qué hay en este repositorio
 
 | Carpeta         | Contenido                                                                                   |
