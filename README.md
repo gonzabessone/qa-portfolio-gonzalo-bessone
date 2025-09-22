@@ -51,3 +51,5 @@ Podés contactarme por cualquiera de estos medios:
 - ✉️ gonzalo.bessone.it@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gonzalobessone/)  
 - 📍 Rosario, Argentina  
+
+**[English Version](README-EN.md)** | **Versión en Español**
