@@ -39,7 +39,7 @@ Focused on creating detailed test cases and maintainable automation scripts.
 |----------------|-------------------------------------------------------------------------------------------|
 | `projects/test-cases/`          | Documented test cases, organized by functionality and scenario                     |
 | `projects/bug-reports/`         | Bug examples found, with description, reproduction steps and evidence          |
-| `projects/test-plan/`           | Structured test plans organized by project type or module               |
+| `projects/test-plan/`           | Structured test plan               |
 | `projects/api-testing/`         | Collections, projects and testing examples with Postman and SoapUI                            |
 | `projects/database/`            | SQL scripts for MySQL database testing, including creation, insertion and queries|
 | `projects/test-automation/`            | Complete E2E automation with Playwright - UIPlayground Test Suite|
